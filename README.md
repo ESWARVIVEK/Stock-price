@@ -1,0 +1,1 @@
+It is a code for the "Stock price prediction" that help the traders to get approximate value for the desire stock at a praticular time. The model is train with the data of a stock which the user insisted and it make several calculation that help to get the approxmate predition of the stock. It uses several deep learning and machine learing algorithms to make prediction.   
